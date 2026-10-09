@@ -35,3 +35,6 @@ coverage/
 Thumbs.db
 *.suo
 *.swp
+
+
+exports/
